@@ -1,6 +1,6 @@
 {
   "name": "react-window-scroller",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Window scroller component for react-window",
   "author": "FedericoDiRosa",
   "license": "MIT",
@@ -12,7 +12,7 @@
     "node": ">=10"
   },
   "peerDependencies": {
-    "react": "^18.2.0"
+    "react": "^18.2.0 || ^19.0.0"
   },
   "scripts": {
     "build": "microbundle-crl --no-compress --format modern,cjs",
